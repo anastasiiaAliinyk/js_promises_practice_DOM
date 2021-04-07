@@ -1,0 +1,2 @@
+body{background:#eee;font-family:Roboto,sans-serif;margin:0;min-height:100vh}.logo,body{display:flex;align-items:center;justify-content:center}.logo{text-transform:uppercase;background-color:#fc4b3b;color:#fff;border-radius:16px;user-select:none;width:70px;height:70px}.success,.warning{position:absolute;padding:50px;border-radius:10px}.success{right:50px;top:50px;background-color:#a6eba6;border:1px solid #08110f}.success--second{right:550px;top:50px}.warning{right:50px;top:250px;background-color:#e95757;border:1px solid #33190d}
+/*# sourceMappingURL=main.decf4ff5.css.map */
